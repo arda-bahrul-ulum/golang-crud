@@ -5,5 +5,6 @@ This is a simple CRUD (Create, Read, Update, Delete) application built using Gol
 # Install package libraries
 for mysql driver
 - go get -u github.com/go-sql-driver/mysql
+
 for input form validation
 - go get github.com/go-playground/validator/v10
